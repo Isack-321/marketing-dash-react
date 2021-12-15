@@ -1,1 +1,1 @@
-export { default } from ".YouTube.js";
+export { default } from "./YouTube.js";

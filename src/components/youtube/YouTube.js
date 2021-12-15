@@ -9,7 +9,7 @@ import {
   normaliseEstimatedMinutesPerCountry,
 } from "../../utils/normalizeData";
 
-const Youtube = ({
+const YouTube = ({
   youtubeMetrics = {},
   youtubeMinutesDay = {},
   youtubeMinutesCountry = {},
@@ -62,4 +62,4 @@ const Youtube = ({
   );
 };
 
-export default Youtube;
+export default YouTube;

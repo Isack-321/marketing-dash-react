@@ -1,4 +1,4 @@
-export const dummyData = {
+export const DummyData = {
     metric: {
       youtubeMetrics: {
         rows: [[745, 2, 16, 1, 597, 48]],
