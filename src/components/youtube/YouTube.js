@@ -7,7 +7,7 @@ import {
   normaliseYoutubeMetrics,
   normaliseEstimatedMinutesWatched,
   normaliseEstimatedMinutesPerCountry,
-} from "../../utils/normaliseData";
+} from "../../utils/normalizeData";
 
 const Youtube = ({
   youtubeMetrics = {},

@@ -1,10 +1,10 @@
 import React from "react";
 
 import { Card, Elevation } from "@blueprintjs/core";
-import { normaliseTwitterData } from "../../utils/normalizeData";
+import { normalizeTwitterData } from "../../utils/normalizeData";
 
 const Twitter = (twitter = {}) => {
-  const twitterData = normaliseTwitterData(twitter);
+  const twitterData = normalizeTwitterData(twitter);
   return (
     <div>
       <h5 style={{ fontSize: "large", textAlign: " left" }}>Twitter</h5>

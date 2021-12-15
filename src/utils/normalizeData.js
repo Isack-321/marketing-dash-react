@@ -1,4 +1,4 @@
-export const normaliseTwitterData = (twitter) => {
+export const normalizeTwitterData = (twitter) => {
     if (Object.keys(twitter).length === 0) {
       return { accountInformation: {}, metrics: [] };
     }
